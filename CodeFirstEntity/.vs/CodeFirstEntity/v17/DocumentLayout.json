@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\codefirstentity\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|solutionrelative:codefirstentity\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\codefirstentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|solutionrelative:codefirstentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\codefirstentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|solutionrelative:codefirstentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\db\\migrations\\20240313012117_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|solutionrelative:db\\migrations\\20240313012117_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\codefirstentity\\codefirstentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4BC6A39-A653-49EA-84EA-7FB3E8CDDB0B}|CodeFirstEntity\\CodeFirstEntity.csproj|solutionrelative:codefirstentity\\codefirstentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\db\\barcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|solutionrelative:db\\barcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|solutionrelative:db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\db\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|solutionrelative:db\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|c:\\users\\1033769278.covisian\\desktop\\proyectos\\codefirstentity\\db\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A70B8B9-1B74-4337-8712-5F9AB6A18FA9}|DB\\DB.csproj|solutionrelative:db\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEntity\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "CodeFirstEntity\\Controllers\\BeerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:31:28.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240313012117_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\Migrations\\20240313012117_InitDB.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20240313012117_InitDB.cs",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\Migrations\\20240313012117_InitDB.cs",
+              "RelativeToolTip": "DB\\Migrations\\20240313012117_InitDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:21:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeFirstEntity",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\CodeFirstEntity.csproj",
+              "RelativeDocumentMoniker": "CodeFirstEntity\\CodeFirstEntity.csproj",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\CodeFirstEntity.csproj",
+              "RelativeToolTip": "CodeFirstEntity\\CodeFirstEntity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T01:11:29.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEntity\\Program.cs",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\Program.cs",
+              "RelativeToolTip": "CodeFirstEntity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:03:33.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstEntity\\appsettings.json",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\CodeFirstEntity\\appsettings.json",
+              "RelativeToolTip": "CodeFirstEntity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T00:58:40.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarContext.cs",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\BarContext.cs",
+              "RelativeDocumentMoniker": "DB\\BarContext.cs",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\BarContext.cs",
+              "RelativeToolTip": "DB\\BarContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:55:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\Beer.cs",
+              "RelativeDocumentMoniker": "DB\\Beer.cs",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\Beer.cs",
+              "RelativeToolTip": "DB\\Beer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:51:16.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\Brand.cs",
+              "RelativeDocumentMoniker": "DB\\Brand.cs",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\Brand.cs",
+              "RelativeToolTip": "DB\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:48:36.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DB",
+              "DocumentMoniker": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\DB.csproj",
+              "RelativeDocumentMoniker": "DB\\DB.csproj",
+              "ToolTip": "C:\\Users\\1033769278.COVISIAN\\Desktop\\Proyectos\\CodeFirstEntity\\DB\\DB.csproj",
+              "RelativeToolTip": "DB\\DB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T00:37:47.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 381,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
